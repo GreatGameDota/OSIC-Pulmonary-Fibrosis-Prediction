@@ -62,6 +62,7 @@ And another point is that the single model that would have scored gold had the s
 ## What didn't work
 
 - 3d resnets (I tried for at least a month with these)
+- Linear Decay Regression
 - Any other type of model besides Resnets and Efficientnets (determinism issues)
 - Efficientnets
 - Simple meta data head (just concat)
