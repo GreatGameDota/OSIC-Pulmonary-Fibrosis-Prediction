@@ -1,5 +1,7 @@
 
-# OSIC Pulmonary Fibrosis Prediction
+# OSIC Pulmonary Fibrosis Progression
+
+My 34th place solution to the [OSIC Pulmonary Fibrosis Progression](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/) competition hosted on Kaggle by OSIC.
 
 ## Initial Thoughts
 
