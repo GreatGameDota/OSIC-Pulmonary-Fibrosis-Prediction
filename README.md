@@ -55,8 +55,8 @@ Simple mean average of their FVC predictions and confidence
 
 ## Final Submission
 
-My final submission was a blend of 3 Resnet50 models:
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F3543139%2F773b5cc6fdf39b2fe77ec08d4b295684%2Ffinal%20sub.png?generation=1602040599569002&alt=media)
+My final submission was a blend of 3 Resnet50 models:  
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F3543139%2F773b5cc6fdf39b2fe77ec08d4b295684%2Ffinal%20sub.png?generation=1602040599569002&alt=media)  
 And another point is that the single model that would have scored gold had the same training parameters as the other models except the added brightness/saturation augmentation
 
 ## What didn't work
