@@ -74,4 +74,4 @@ I want to say again that this was an awesome comp that I am so glad I participat
 
 My previous competition: [Melanoma Classification](https://github.com/GreatGameDota/SIIM-ISIC-Melanoma-Classification)
 
-My next competition: [placeholder]
+My next competition: [Lyft Motion Prediction](https://github.com/GreatGameDota/Lyft-Motion-Prediction)
